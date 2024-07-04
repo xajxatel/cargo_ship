@@ -21,7 +21,7 @@ The project consists of four main components:
 ↓
 #### Step 2
 <p align="center">
-  <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/f13af2f4-49cd-4c36-a702-50b39164998c" alt="Step 2" height="100">
+  <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/f13af2f4-49cd-4c36-a702-50b39164998c" alt="Step 2" width="300">
 </p>
 ↓
 #### Step 3
