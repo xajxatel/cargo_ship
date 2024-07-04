@@ -3,7 +3,7 @@
 ## Overview
 The Cargo Ship Management System simulates the coordination and management of cargo ships traveling between ports. This system is built using C and demonstrates the use of Inter-Process Communication (IPC), multi-threading, and synchronization mechanisms.
 <p align="center">
-  <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/07cf427d-d82f-4ed1-bb49-441fa0868228" alt="Cargo Ship" width="600">
+  <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/07cf427d-d82f-4ed1-bb49-441fa0868228" alt="Cargo Ship" width="500">
 </p>
 
 ## Components
@@ -45,27 +45,28 @@ The project consists of four main components:
 </p>
 
 ## Outputs
-#### Shipping administration output
+
+Shipping administration output
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/8a228079-0910-492c-aca1-de9df0207715" alt="Shipping Administration Output" width="800">
 </p>
-#### Port 1
+Port 1
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/644d9402-c22d-4546-bdfe-06e43fef0f89" alt="Port 1 Output" width="800">
 </p>
-#### Port 2
+Port 2
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/b3e08fae-2da0-4cf4-9ddd-8634e959e4c5" alt="Port 2 Output" width="800">
 </p>
-#### Cargo Ship 1
+Cargo Ship 1
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/5991234b-7f86-43df-aa1c-fd11dd95ce7e" alt="Cargo Ship 1 Output" width="800">
 </p>
-#### Cargo Ship 2
+Cargo Ship 2
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/8b8a415e-19f0-480e-92f7-0eca488645a2" alt="Cargo Ship 2 Output" width="800">
 </p>
-#### Docking
+Docking
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/0b3b972f-118e-4432-997c-7da64714633e" alt="Docking Output" width="800">
 </p>
