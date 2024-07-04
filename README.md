@@ -46,7 +46,7 @@ Step 6
 
 ## Outputs
 
-Shipping administration output
+Shipping Administration
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/8a228079-0910-492c-aca1-de9df0207715" alt="Shipping Administration Output" width="800">
 </p>
