@@ -14,32 +14,32 @@ The project consists of four main components:
 4. `docking.c` - Manages the termination of the system.
 
 ## Runthrough
-#### Step 1
+Step 1
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/07665816-f8c8-408b-b224-0bff7bc98569" alt="Step 1" width="800">
 </p>
 ↓
-#### Step 2
+Step 2
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/f13af2f4-49cd-4c36-a702-50b39164998c" alt="Step 2" width="800">
 </p>
 ↓
-#### Step 3
+Step 3
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/fe83b723-22d0-4985-9f10-6a3e760d1fc9" alt="Step 3" width="800">
 </p>
 ↓
-#### Step 4
+Step 4
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/f5db1645-d7dd-4df8-85b0-9cc7c5f1692e" alt="Step 4" width="800">
 </p>
 ↓
-#### Step 5
+Step 5
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/0cdd9d65-3d74-44d7-ba89-5e2eca8d1df9" alt="Step 5" width="800">
 </p>
 ↓
-#### Step 6
+Step 6
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/cb341b71-484d-4f3d-a256-5390168c1ce3" alt="Step 6" width="800">
 </p>
