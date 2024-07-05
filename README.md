@@ -1,7 +1,7 @@
-# Cargo Ship Management System
+# PortMaster
 
 ## Overview
-The Cargo Ship Management System simulates the coordination and management of cargo ships traveling between ports. This system is built using C and demonstrates the use of Inter-Process Communication (IPC), multi-threading, and synchronization mechanisms.
+PortMaster is a Cargo Ship Management System that simulates the coordination and management of cargo ships traveling between ports. This system is built using C and demonstrates the use of Inter-Process Communication (IPC), multi-threading, and synchronization mechanisms.
 <p align="center">
   <img src="https://github.com/xajxatel/cargo_ship/assets/137952206/07cf427d-d82f-4ed1-bb49-441fa0868228" alt="Cargo Ship" width="500">
 </p>
